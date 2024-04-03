@@ -1,6 +1,9 @@
 This Template for a portfolio was done through my online course with Codecademy on April 2023.
 
-Creating a Personal Portfolio Template on GitHub
+![portfolio1-screenshot](https://github.com/dhonaobina/Portfolio_Template/assets/113093370/d531bb56-7cc3-4170-b7fc-e8e6fe6dff59)
+![portfolio1-screenshot2](https://github.com/dhonaobina/Portfolio_Template/assets/113093370/ac3be01f-c7b4-433b-8c03-ba2b3b199ae7)
+
+Creating a Personal Portfolio Template.
 
 In the digital age, having an online portfolio can be a game-changer for professionals across various fields. It showcases your skills, projects, and experiences to potential employers or clients. GitHub, known for hosting code repositories, also serves as an excellent platform for personal portfolios. Here's how you can create a personal portfolio template on GitHub:
 
